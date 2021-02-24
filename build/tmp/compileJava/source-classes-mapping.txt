@@ -1,2 +1,0 @@
-com/api/api/ApiApplication.java
- com.api.api.ApiApplication
